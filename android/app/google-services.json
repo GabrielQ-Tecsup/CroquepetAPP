@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "811900472332",
+    "project_id": "croquepet-1b415",
+    "storage_bucket": "croquepet-1b415.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:811900472332:android:22cf0d8368873d31de7229",
+        "android_client_info": {
+          "package_name": "com.dbestech.dbfoodTest"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "811900472332-v42aclvk42bukdices0lusfo43fpq1kg.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD9LWtrkcF3j_y0-BqvWY7lxv4y7dzVedA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "811900472332-v42aclvk42bukdices0lusfo43fpq1kg.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
